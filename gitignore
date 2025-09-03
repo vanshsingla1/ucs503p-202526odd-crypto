@@ -1,0 +1,41 @@
+# Compiled source files
+*.out
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+
+# Debug / log files
+*.log
+*.err
+*.stackdump
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
